@@ -13,4 +13,4 @@ Designed to work with Wordpress menu.
 == Installation ==
 Add Css and Javascript code to your web app files.  
 
-## [Project Demo](https://aronwebpro.github.io/awpro-menu/)
+## [Project Demo](https://aronwebpro.github.io/vanilla-js-menu-component)
